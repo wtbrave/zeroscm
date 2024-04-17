@@ -1,0 +1,24 @@
+.portlettitle {
+	background: url("/images/portlet/background/gray.gif"); width: 100%; line-height: 25px; overflow: auto !important; border-bottom-color: rgb(224, 224, 224); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.portlettitle img {
+	margin-top: 0px !important;
+}
+.portlet_title_content {
+	overflow: hidden; position: relative;
+}
+.quickoprate {
+	width: auto; height: 25px; float: right; display: none;
+}
+.quickoprate a {
+	text-align: center; padding-left: 5px; float: left; display: block;
+}
+.quickoprate a img {
+	border: 0px currentColor; border-image: none; width: 18px; height: 18px;
+}
+.quickopratemask {
+	background: rgb(204, 204, 204); display: none; position: absolute; z-index: 0; opacity: 0.5;
+}
+.portlet {
+	border: 1px solid rgb(204, 204, 204); border-image: none; width: 99.5%; overflow: hidden; margin-top: 8px; margin-right: 0px; margin-left: 0px; float: left; display: block;
+}

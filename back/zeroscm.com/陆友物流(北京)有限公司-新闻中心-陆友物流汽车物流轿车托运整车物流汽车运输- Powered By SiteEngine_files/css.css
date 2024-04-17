@@ -1,0 +1,303 @@
+* {
+	margin: 0px; padding: 0px;
+}
+body {
+	background: url("/data/skins/chinese/img/body_bg.jpg") repeat-x rgb(255, 255, 255); font-family: Arial, Helvetica, sans-serif; font-size: 12px;
+}
+ul {
+	list-style: none;
+}
+ol {
+	list-style: none;
+}
+a img {
+	border: currentColor; border-image: none;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.img_style {
+	margin-top: 9px;
+}
+.header {
+	margin: 0px auto; width: 800px; overflow: hidden;
+}
+.content {
+	margin: 0px auto; width: 800px; overflow: hidden;
+}
+#content {
+	margin: 0px auto; width: 800px; overflow: hidden;
+}
+.logo {
+	margin: 10px 0px; width: 286px; height: 45px; overflow: hidden; float: left;
+}
+.content {
+	margin: 10px auto 0px; font-size: 12px;
+}
+.content h2 {
+	color: rgb(57, 71, 159); font-size: 12px;
+}
+.sideleft {
+	float: left;
+}
+.middle {
+	float: left;
+}
+.sideright {
+	float: left;
+}
+.sideleft {
+	width: 172px; overflow: hidden; display: inline;
+}
+.middle {
+	width: 172px; overflow: hidden; display: inline;
+}
+.sideright {
+	width: 172px; overflow: hidden; display: inline;
+}
+.middle {
+	width: 438px; margin-left: 10px;
+}
+.sideright {
+	width: 172px; float: right;
+}
+.left_top {
+	background: url("img/sideleft_top_bg.jpg") no-repeat left top rgb(207, 225, 245); clear: both;
+}
+.left_bottom {
+	background: url("img/sideleft_bottom_bg.jpg") no-repeat left bottom rgb(207, 225, 245); padding: 0px 6px 6px; margin-top: 3px;
+}
+.title {
+	height: 24px; line-height: 24px; border-bottom-color: rgb(225, 225, 225); border-bottom-width: 1px; border-bottom-style: solid; position: relative;
+}
+.title h2 {
+	left: 3px; position: absolute;
+}
+.title a img {
+	top: 10px; right: 7px; position: absolute;
+}
+.left_top {
+	margin-top: 5px;
+}
+.company_business {
+	margin-top: 5px;
+}
+.new_list {
+	margin-top: 5px;
+}
+.box001 {
+	margin-top: 5px;
+}
+.company_business {
+	margin-top: 6px;
+}
+.new_list {
+	margin-top: 6px;
+}
+.box001 {
+	margin-top: 6px;
+}
+.company_business {
+	overflow: hidden; clear: both;
+}
+.company_business_top {
+	overflow: hidden; clear: both;
+}
+.company_business_bottom {
+	overflow: hidden; clear: both;
+}
+.company_business_content {
+	overflow: hidden; clear: both;
+}
+.company_business ul {
+	overflow: hidden; clear: both;
+}
+.company_business_content ul {
+	overflow: hidden; clear: both;
+}
+.new_list {
+	overflow: hidden; clear: both;
+}
+.new_list_cntent ul {
+	overflow: hidden; clear: both;
+}
+.new {
+	overflow: hidden; clear: both;
+}
+.nav {
+	overflow: hidden; clear: both;
+}
+.box001 {
+	overflow: hidden; clear: both;
+}
+.box_top {
+	overflow: hidden; clear: both;
+}
+.box_content {
+	overflow: hidden; clear: both;
+}
+.box_bottom {
+	overflow: hidden; clear: both;
+}
+.new_list_top {
+	overflow: hidden; clear: both;
+}
+.company_profile {
+	overflow: hidden;
+}
+.company_1 {
+	overflow: hidden; clear: both; margin-top: 8px;
+}
+.company_1 h2 {
+	background: url("/data/skins/chinese/img/list_li.jpg") no-repeat 3px 8px; padding-left: 15px;
+}
+.company_1 p img {
+	margin: 0px 5px 0px 0px; float: left;
+}
+.company_business {
+	
+}
+.company_business_top {
+	background: url("/data/skins/chinese/img/right_top_bg.jpg") no-repeat; height: 4px;
+}
+.new_list_top {
+	background: url("/data/skins/chinese/img/right_top_bg.jpg") no-repeat; height: 4px;
+}
+.company_business_bottom {
+	background: url("/data/skins/chinese/img/right_bottom_bg.jpg") no-repeat; height: 4px;
+}
+.new_list_bottom {
+	background: url("/data/skins/chinese/img/right_bottom_bg.jpg") no-repeat; height: 4px;
+}
+.company_business_content {
+	background: url("/data/skins/chinese/img/content_bg.jpg") repeat-y; padding: 0px 8px; height: 100%;
+}
+.new_list_content {
+	background: url("/data/skins/chinese/img/content_bg.jpg") repeat-y; padding: 0px 8px; height: 100%;
+}
+.company_business_content h2 {
+	border-bottom-color: rgb(234, 242, 245); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.new_list_cntent ul {
+	border-bottom-color: rgb(234, 242, 245); border-bottom-width: 1px; border-bottom-style: solid; display: block;
+}
+.company_business_content ul {
+	height: 100%; padding-bottom: 5px; margin-top: 5px; display: block;
+}
+.company_business_content ul li {
+	background: url("/data/skins/chinese/img/pic_bg.jpg") no-repeat; width: 99px; height: 96px; margin-right: 6px; float: left;
+}
+.company_business_content ul li img {
+	padding: 3px;
+}
+.company_business_content ul li p {
+	text-align: center; color: rgb(66, 73, 161); font-size: 12px;
+}
+.divArea {
+	
+}
+.divArea .img {
+	top: 15px; right: 20px; overflow: hidden; float: right;
+}
+.divArea .Col2 {
+	
+}
+.n4Tab {
+	clear: both;
+}
+.n4Tab .TabTitle {
+	height: 23px; clear: both; font-size: 12px; border-bottom-color: rgb(204, 204, 204); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.n4Tab .TabTitle ul {
+	margin: 0px; padding: 0px; clear: both;
+}
+.n4Tab .TabTitle li {
+	width: 98px; height: 23px; text-align: center; float: left; list-style-type: none; cursor: pointer;
+}
+.n4Tab .TabTitle li h6 {
+	clear: both; font-weight: normal;
+}
+.n4Tab .TabTitle li a:link {
+	font-size: 12px; text-decoration: none;
+}
+.n4Tab .TabTitle li a:visited {
+	font-size: 12px; text-decoration: none;
+}
+.n4Tab .TabTitle li a:hover {
+	font-size: 12px; text-decoration: none;
+}
+.n4Tab .TabTitle li a:active {
+	font-size: 12px; text-decoration: none;
+}
+.n4Tab .TabTitle .normal {
+	background: url("/data/skins/chinese/img/index02_81.jpg") no-repeat; display: block;
+}
+.n4Tab .TabTitle .active {
+	background: url("/data/skins/chinese/img/index02_80.jpg") no-repeat;
+}
+.n4Tab .TabContent {
+	padding-top: 10px; clear: both;
+}
+.n4Tab .TabContent a {
+	font-size: 12px;
+}
+.n4Tab .TabContent a:hover {
+	font-size: 12px;
+}
+.none {
+	display: none;
+}
+.new_list_content {
+	padding-top: 8px;
+}
+.new {
+	font-size: 12px;
+}
+.new li {
+	border-bottom-color: rgb(242, 242, 242); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.new li a {
+	background: url("/data/skins/chinese/img/index02_93.jpg") no-repeat 5px 3px; padding-left: 15px; font-size: 12px;
+}
+.box001 {
+	background: url("/data/skins/chinese/img/side_right_box_content.jpg") repeat-y;
+}
+.box_top {
+	background: url("/data/skins/chinese/img/side_right_box_header.jpg") no-repeat; height: 4px;
+}
+.box_content {
+	background: url("/data/skins/chinese/img/right_content.jpg") repeat-x left bottom; margin: 0px 1px; padding: 0px 8px;
+}
+.box_bottom {
+	background: url("/data/skins/chinese/img/side_right_box_bottom.jpg") no-repeat; height: 4px;
+}
+#content {
+	background: url("/data/skins/chinese/img/bg.jpg") repeat-y left top; overflow: hidden; margin-top: 10px;
+}
+.left {
+	width: 172px; overflow: hidden; padding-bottom: 50px; float: left;
+}
+.left h2 {
+	background: rgb(18, 44, 167); padding: 8px 0px 8px 8px; color: rgb(255, 255, 255); font-size: 13px;
+}
+.right {
+	width: 621px; overflow: hidden; padding-bottom: 15px; float: right;
+}
+.title01 {
+	height: 30px; overflow: hidden; border-bottom-color: rgb(145, 167, 253); border-bottom-width: 1px; border-bottom-style: solid;
+}
+.img001 {
+	padding: 10px 5px 0px 0px; float: right;
+}
+.navigation_style {
+	padding: 3px 0px 5px; color: rgb(57, 73, 161); float: left;
+}

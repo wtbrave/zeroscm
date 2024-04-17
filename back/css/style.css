@@ -1,0 +1,14 @@
+body {font-size: 10pt; font-family: Arial}
+td { font-family: "SimSun"; font-size: 10pt} 
+P {	FONT-SIZE: 10pt}
+A:link {COLOR: #000000; TEXT-DECORATION: none}
+A:visited {	COLOR: #000000; TEXT-DECORATION: none}
+a:hover { color: #FF3300; text-decoration: underline }
+.jnfont1 {FONT-SIZE: 9pt; FILTER: dropshadow(color=#000000,offx=1,offy=1); COLOR: #FFFFFF; FONT-FAMILY: "SimSun"}
+.table001 {  font-size: 9pt; background-color: #6699CC}
+.table002 {  font-size: 9pt; background-color: #FFFFFF}
+.input1 {  border-style:solid; border-width:1; font-size: 9pt; height: 18px; color:#000000; padding-left:4; padding-right:4; padding-top:1; padding-bottom:1}
+.input2 {  border-style:solid; border-width:1px; font-size: 9pt; height: 16px; background-color: #FFFFFF;color:#000000; text-align:center; font-family:ËÎÌåmonospace; margin-top:1; margin-bottom:1; word-spacing:1 }
+.testarea1  {FONT-SIZE: 9pt; border-style:solid; border-width:1px; SCROLLBAR-FACE-COLOR:#000000; SCROLLBAR-HIGHLIGHT-COLOR:#000000; SCROLLBAR-SHADOW-COLOR:#ffffff; SCROLLBAR-3DLIGHT-COLOR:#ffffff; SCROLLBAR-ARROW-COLOR:#ffffff; SCROLLBAR-TRACK-COLOR:#ffffff; SCROLLBAR-DARKSHADOW-COLOR:#ffffff
+;font-family: "SimSun"; font-size: 9pt; color:#000000}
+.line {line-height: 1.5;}

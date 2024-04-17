@@ -1,0 +1,123 @@
+@media all
+{
+html {
+	height: auto; margin-bottom: 0px;
+}
+* html textarea {
+	overflow: scroll; -ms-overflow-x: hidden;
+}
+* html input {
+	overflow: hidden;
+}
+body {
+	position: relative;
+}
+* html body {
+	position: static;
+}
+* html #col1 {
+	position: relative;
+}
+* html #col2 {
+	position: relative;
+}
+* html #col3 {
+	position: relative;
+}
+body {
+	height: 100%;
+}
+* html ul {
+	position: relative;
+}
+* html ol {
+	position: relative;
+}
+* html dl {
+	position: relative;
+}
+body ol li {
+	display: list-item;
+}
+html {
+	margin-right: 1px;
+}
+* html {
+	margin-right: 0px;
+}
+#col3 {
+	position: relative; z-index: 1;
+}
+* html body a {
+	background-color: transparent;
+}
+* html body a:hover {
+	background-color: transparent;
+}
+}
+@media screen, projection
+{
+#col1 {
+	display: inline;
+}
+#col2 {
+	display: inline;
+}
+.c50l {
+	display: inline;
+}
+.c25l {
+	display: inline;
+}
+.c33l {
+	display: inline;
+}
+.c38l {
+	display: inline;
+}
+.c66l {
+	display: inline;
+}
+.c75l {
+	display: inline;
+}
+.c62l {
+	display: inline;
+}
+.c50r {
+	display: inline;
+}
+.c25r {
+	display: inline;
+}
+.c33r {
+	display: inline;
+}
+.c38r {
+	display: inline;
+}
+.c66r {
+	display: inline;
+}
+.c75r {
+	display: inline;
+}
+.c62r {
+	display: inline;
+}
+* html .subcolumns .subc {
+	overflow: hidden; -ms-word-wrap: break-word;
+}
+* html .subcolumns .subcl {
+	overflow: hidden; -ms-word-wrap: break-word;
+}
+* html .subcolumns .subcr {
+	overflow: hidden; -ms-word-wrap: break-word;
+}
+}
+@media print
+{
+#col3 {
+	height: 100%;
+}
+}
